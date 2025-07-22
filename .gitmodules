@@ -1,0 +1,4 @@
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/mike2194/trmnl-firmware-esp32c3
+	branch = esp32c3
